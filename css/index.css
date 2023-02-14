@@ -4578,11 +4578,6 @@ h1.page-title + .tag-cloud-list {
     filter: alpha(opacity=40);
   }
 }
-#page-header #site-title:hover,
-#page-header #site-subtitle:hover {
-  color: #fff;
-  text-shadow: #fff 0px 0px 10px, #fff 0px 0px 20px, #fff 0px 0px 30px, #0ff 0px 0px 40px, #0ff 0px 0px 70px, #0ff 0px 0px 80px, #0ff 0px 0px 100px;
-}
 @media screen and (max-width: 900px) {
   div#footer_deal,
   div#Jay-footer,
